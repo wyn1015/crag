@@ -1,0 +1,72 @@
+[
+  {
+    "domain": 10,
+    "query_category": 3,
+    "dynamism": 1,
+    "query": "what's the capacity of this area?",
+    "answer": "the capacity of madison square garden is between 18,006 and 20,789 people, depending on the kind of event.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/930-da33192e-6ba9-4279-aea6-ded26aabc2fd.jpg",
+    "session_id": "da33192e-6ba9-4279-aea6-ded26aabc2fd",
+    "predicted_domain": 10
+  },
+  {
+    "domain": 7,
+    "query_category": 1,
+    "dynamism": 1,
+    "query": "where is the headquarters of this company?",
+    "answer": "the headquarters for hope credit union are in jackson, mississippi.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/931-aa43f725-6af4-4d57-b939-35f25d04156c.jpg",
+    "session_id": "aa43f725-6af4-4d57-b939-35f25d04156c",
+    "predicted_domain": 10
+  },
+  {
+    "domain": 2,
+    "query_category": 4,
+    "dynamism": 1,
+    "query": "in what country is this plant considered invasive?",
+    "answer": "the inchplant is considered an invasive species in south africa.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/1028-2c005215-b3a8-46bc-ba9c-85f80da3b6e8.jpg",
+    "session_id": "2c005215-b3a8-46bc-ba9c-85f80da3b6e8",
+    "predicted_domain": 2
+  },
+  {
+    "domain": 2,
+    "query_category": 2,
+    "dynamism": 3,
+    "query": "are these fowers larger in height than roses?",
+    "answer": "no, lilies reach a height of 1-6 feet but some species of roses climb much higher.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/1064-5af2343e-64bd-4cbc-9365-7d2cf3fc4409.jpg",
+    "session_id": "5af2343e-64bd-4cbc-9365-7d2cf3fc4409",
+    "predicted_domain": 2
+  },
+  {
+    "domain": 10,
+    "query_category": 1,
+    "dynamism": 1,
+    "query": "who is the executive chef of the restaurant in this hotel?",
+    "answer": "maris tampakis is the executive chef of cut by wolfgang puck, the restaurant in the fourt season hotel new york downtown.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/947-1a3bd7f9-a53b-4711-b2c8-10d0d4adf256.jpg",
+    "session_id": "1a3bd7f9-a53b-4711-b2c8-10d0d4adf256",
+    "predicted_domain": 9
+  },
+  {
+    "domain": 5,
+    "query_category": 4,
+    "dynamism": 3,
+    "query": "solve this problem.",
+    "answer": "49 times 55 is 2,695.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/948-afe5977f-01b0-4f5d-acea-842349f3d37b.jpg",
+    "session_id": "afe5977f-01b0-4f5d-acea-842349f3d37b",
+    "predicted_domain": 3
+  },
+  {
+    "domain": 10,
+    "query_category": 1,
+    "dynamism": 3,
+    "query": "which structure is the most famous by the architect of this building?",
+    "answer": "the most famous work of henry bacon's, architect of the new york city union square savings bank, is the lincoln memorial.",
+    "image_path": "/home/wangyanan/transformer-code1/transformer-code/data/image/949-0b237d48-2bfb-4a2c-bc4a-21c5dabe1227.jpg",
+    "session_id": "0b237d48-2bfb-4a2c-bc4a-21c5dabe1227",
+    "predicted_domain": 10
+  }
+]
